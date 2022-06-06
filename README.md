@@ -1,11 +1,10 @@
 ### Hi there 👋, Im an Android Developer, proficient Java and Kotlin
 
-[![lhyan0 github stats](https://github-readme-stats.vercel.app/api?username=lhyan0)](https://github.com/lhyan0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhyan0)](https://github.com/lhyan0/github-readme-stats)
-
+[![lhyan0 github stats](https://github-readme-stats.vercel.app/api?username=gibs.on)](https://github.com/lhyan0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibs.on)](https://github.com/lhyan0/github-readme-stats)
 
 <!--
-**lhyan0/lhyan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gibs.on/gibs.on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
