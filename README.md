@@ -1,4 +1,4 @@
-### Hi there 👋, Im an Android Developer, proficient Java and Kotlin
+### Hi there 👋, Im an Android Developer, proficient Java, Kotlin and Flutter
 
 
 - 🔭 I’m currently working on CHS Workspace
