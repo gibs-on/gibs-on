@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gibson</h1>
-<h3 align="center">A passionate Fullstack developer from Kenya</h3>
+<h3 align="center">I'm Gibson from Kenya, and I Design and Development. I really enjoy developing software for various platforms like Mobile (Android) as well as websites. I also enjoy wireframing, ui, ux, and design in general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gibs-on&label=Profile%20views&color=0e75b6&style=flat" alt="gibs-on" /> </p>
 
