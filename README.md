@@ -1,4 +1,4 @@
-<h1 align="center">Gibson Chesire</h1>
+<h1 align="left">Gibson Chesire</h1>
 <p align="left">I'm Gibson from Kenya, and I Design and Development mobile apps and websites. I really enjoy my work and I achieve this using various languages, tools, and frameworks. I also enjoy wireframing, UI, UX, and design in general.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gibs-on&label=Profile%20views&color=0e75b6&style=flat" alt="gibs-on" /> </p>
